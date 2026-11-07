@@ -137,3 +137,6 @@ sh ./oos16_theme_test.sh apply
 ```
 
 And it's done.
+
+### Roadmap
+- [ ] add live wallpaper/font support (that is, if it differs from this, not yet explored)
