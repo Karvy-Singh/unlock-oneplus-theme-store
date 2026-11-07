@@ -1,0 +1,7 @@
+system  persist.sys.trial.theme          = 1
+system  persist.sys.oppo.theme_uuid      = unified_apply_record_v2
+system  persist.sys.oplus.theme_uuid     = -1
+secure  persist.sys.trial.theme          = 1
+secure  persist.sys.oppo.theme_uuid      = unified_apply_record_v2
+secure  persist.sys.oplus.theme_uuid     = -1
+secure  launcher_theme_flag              = -1

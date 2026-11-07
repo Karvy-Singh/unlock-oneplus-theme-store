@@ -1,0 +1,9 @@
+persist.sys.trial.theme=null
+persist.sys.trial.font=null
+persist.sys.trial.live_wp=null
+persist.sys.oppo.theme_uuid=-1
+persist.sys.oplus.theme_uuid=-1
+persist.sys.oppo.live_wp_uuid=
+persist.sys.oplus.live_wp_uuid=null
+current_wallpaper_name=null
+current_typeface_name=null

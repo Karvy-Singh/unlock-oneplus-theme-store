@@ -1,0 +1,15 @@
+color_theme_setting
+com.oplus.themestore.su
+current_typeface_name
+is_system_color_follow_static_wallpaper
+keyguard_clock_theme_type
+launcher_grid_control_icon_themed
+oplus_keyguardstyle_aod_wallpaper_content_height
+persist.sys.oplus.theme_uuid
+persist.sys.oppo.live_wp_uuid
+persist.sys.oppo.theme_uuid
+systemui_lockWallpaper
+systemui_other_lockWallpaper
+wallpaper_color_overlay_enable
+wallpaper_holiday
+WallpaperScreenshotID

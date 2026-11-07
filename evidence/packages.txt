@@ -1,0 +1,5 @@
+package:com.oplus.themestore
+package:com.android.theme.font.notoserifsource
+package:com.oplus.wallpapers
+package:com.android.wallpaper.livepicker
+package:com.android.wallpaperbackup
